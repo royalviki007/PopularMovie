@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MasterDetail</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="data">DATA</string>
+    <string name="action_settings">Setting</string>
+    <string name="sort_popularity">Popularity</string>
+    <string name="sort_ratting">Highest Rated</string>
+    <string name="favorite">Favorite</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="trailer">Trailer</string>
+    <string name="year">Year</string>
+    <string name="minute">120min</string>
+    <string name="rating">rating</string>
+    <string name="make_as_favorite">MAKE AS\n FAVORITE</string>
+    <string name="trailers_header">Trailers:</string>
+    <string name="movie_detail_image_description">Movie Description</string>
+    <string name="movie_image_description">Movie image description</string>
+    <string name="trailer_play_description">Trailer play descreption</string>
+    <string name="review_header">Reviews</string>
+</resources>
